@@ -21,15 +21,19 @@
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
 
-🛠 Tech Stack 🛠
-Techs that I've used at least once
+🛠 Skills 🛠
+Skills that I've used at least once
 
 <div align="center">
+   
+### Framework
 
 <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
+   
+### Language
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the badge&logo=Python&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the badge&logo=Javascript&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the badge&logo=Java&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the badge&logo=C&logoColor=white"/>
