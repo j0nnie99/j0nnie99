@@ -71,10 +71,10 @@ Skills that I've used at least once
 </p>
    <br/>
 
-</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongIn37)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 
 <!--
 **JeongIn37/JeongIn37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
