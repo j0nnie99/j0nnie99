@@ -20,11 +20,11 @@
 
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
+<div align="center">
 
-🛠 Skills 🛠
+## 🛠 Skills 🛠
 Skills that I've used at least once
 
-<div align="center">
    
 ### Framework
 
