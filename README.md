@@ -4,7 +4,7 @@
 ###🏫 Major
 IT Enginnering / Business Administration
 
-###👩‍💻 Activities
+##👩‍💻 Activities
 * Member of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 8th, web programming club (2020.03 ~ 2020.12)
 * Executive team & Educator of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 9th, web programming club (2021.01 ~ 2021.12)
 * Mentor of 🤖[Play with SW](https://www.playsw.or.kr/main)🤖, SW education program of NAVER Connect (2021.07 ~ 2022.02)
@@ -13,15 +13,15 @@ IT Enginnering / Business Administration
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
 
-###Skill
+##Skill
 that I've used at least once
 
-####Framework
+#Framework
 * Django
 * Node.js
 * React
 
-####Language
+#Language
 * Python
 * Javascript
 * Java
