@@ -26,7 +26,8 @@
 that I've used at least once
 
 ### Framework
-* Django <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=black"/>
+
 * Node.js
 * React
 
