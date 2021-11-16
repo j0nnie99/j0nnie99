@@ -1,5 +1,5 @@
-# Hi, I'm Jeongin Yoon👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeongin%20Yoon&fontSize=90)
 
 ## 🏫 Major
 - IT Enginnering
@@ -31,11 +31,10 @@ that I've used at least once
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
 
 ### Language
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the badge&logo=Python&logoColor=white"/>
-<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the badge&logo=Javascript&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the badge&logo=Python&logoColor=white"/> <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the badge&logo=Javascript&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the badge&logo=Java&logoColor=white"/>
 <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the badge&logo=C&logoColor=white"/>
-<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the badge&logo=C++&logoColor=white"/>
+<img alt="C++" src ="https://img.shields.io/badge/C++-00599C.svg?&style=for-the badge&logo=C%2B%2B&logoColor=white"/>
 
 <!--
 **JeongIn37/JeongIn37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -112,4 +111,3 @@ KAIST 2021 Summer 🏅MadCamp🏅(2021.6 ~ 2021.7)
 
 
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongIn37&show_icons=true&theme=aura_dark)
