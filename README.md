@@ -13,15 +13,15 @@ IT Enginnering / Business Administration
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
 
-##Skill
+## Skill
 that I've used at least once
 
-#Framework
+# Framework
 * Django
 * Node.js
 * React
 
-#Language
+# Language
 * Python
 * Javascript
 * Java
