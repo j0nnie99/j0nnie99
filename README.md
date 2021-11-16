@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Jeongin Yoon
+# Junior Web Developer, Jeongin Yoon👋
 
 
 ## 🏫 Major
