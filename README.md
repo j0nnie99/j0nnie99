@@ -6,6 +6,8 @@
 ## 🏫 Major
 IT Enginnering / Business Administration
 
+
+
 ## 👩‍💻 Activities
 * Member of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 8th, web programming club (2020.03 ~ 2020.12)
 
@@ -18,6 +20,7 @@ IT Enginnering / Business Administration
 * Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
 
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
+
 
 
 ## Skill
