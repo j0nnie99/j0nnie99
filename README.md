@@ -1,20 +1,27 @@
 ### Hi there 👋
 
 # Jeongin Yoon
+
+
 ## 🏫 Major
 IT Enginnering / Business Administration
 
 ## 👩‍💻 Activities
 * Member of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 8th, web programming club (2020.03 ~ 2020.12)
+
 * Executive team & Educator of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 9th, web programming club (2021.01 ~ 2021.12)
+
 * Mentor of 🤖[Play with SW](https://www.playsw.or.kr/main)🤖, SW education program of NAVER Connect (2021.07 ~ 2022.02)
+
 * Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
+
 * Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
+
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
 
 ## Skill
-that I've used at least once
+- that I've used at least once
 
 ### Framework
 * Django
