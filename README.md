@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Jeongin Yoon
-### 🏫 Major
+# Jeongin Yoon
+## 🏫 Major
 IT Enginnering / Business Administration
 
 ## 👩‍💻 Activities
@@ -16,12 +16,12 @@ IT Enginnering / Business Administration
 ## Skill
 that I've used at least once
 
-# Framework
+### Framework
 * Django
 * Node.js
 * React
 
-# Language
+### Language
 * Python
 * Javascript
 * Java
