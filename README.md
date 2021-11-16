@@ -2,7 +2,8 @@
 
 
 ## 🏫 Major
-IT Enginnering / Business Administration
+- IT Enginnering
+- Business Administration
 
 
 
@@ -21,8 +22,8 @@ IT Enginnering / Business Administration
 
 
 
-## Skill
-- that I've used at least once
+## Skills
+that I've used at least once
 
 ### Framework
 * Django
