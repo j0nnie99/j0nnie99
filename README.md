@@ -25,6 +25,8 @@ Business Administration 💼
 * Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
 
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
+
+* 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
    
 
 <div align="center">
@@ -74,38 +76,3 @@ Business Administration 💼
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongIn37)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
-<!--
-**JeongIn37/JeongIn37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-✏️  Personal Blog
-
-🌳  Solved.ac
-
-Hi there 👋
-header
-
-🇰🇷
-
-🛠 Tech Stack 🛠
-Techs that I've used at least once
-
-           
-
-🛠 Tools & Platforms 🛠
-Tools and Platforms that I've used at least once
-
-
-
--->
