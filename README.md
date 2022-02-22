@@ -14,6 +14,8 @@ Business Administration 💼
 
 ## 👩‍💻 Activities    </div>
 
+<!--
+
 | Activity | Position | Duration | Description |
 |---|---|---|---|
 | [Like Lion](https://www.likelion.net/univ) at SMWU 8th | Member | 2020.03-2020.12 | Web Programming Club |
@@ -22,8 +24,7 @@ Business Administration 💼
 | [KUSITMS](https://cafe.naver.com/kusitms) | Development Team | 2021.08-2021.11 | Korean University Students IT, Management Society |
 | [SMARTeer](https://www.instagram.com/smwu_smarteer/) | Team Leader of Education team | 2021.01-2021.12 | Leadership group(Volunteering club) of SMWU Library
 | 2021 Winter [Mad Camp](https://madcamp.io/)| Development Team | 2021.12-2022.01 | Programming Camp
-
-<!--
+-->
 * Member of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 8th, web programming club (2020.03 ~ 2020.12)
 
 * Executive team & Educator of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 9th, web programming club (2021.01 ~ 2021.12)
@@ -37,7 +38,7 @@ Business Administration 💼
 * Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
 
 * 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
-   -->
+
 
 <div align="center">
 <br/>
