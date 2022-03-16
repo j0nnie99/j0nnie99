@@ -33,11 +33,13 @@ Business Administration 💼
 
 * Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
 
-* Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
+<!--* Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
 
-* Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)
+* Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)-->
 
 * 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
+
+* Member of ☁️[Cloud Club](https://cloudclub.notion.site/cloudclub/Cloud-Club-1-39782e4d00f24b07aea8484e5a86110e)☁️, cloud infrastructure club (2022.03 ~ Current)
 
 
 <div align="center">
