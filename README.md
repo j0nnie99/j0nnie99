@@ -26,20 +26,14 @@ Business Administration 💼
 | 2021 Winter [Mad Camp](https://madcamp.io/)| Development Team | 2021.12-2022.01 | Programming Camp
 -->
 * Member of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 8th, web programming club (2020.03 ~ 2020.12)
-
 * Executive team & Educator of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 9th, web programming club (2021.01 ~ 2021.12)
-
-* Mentor of 🤖[Play with SW](https://www.playsw.or.kr/main)🤖, SW education program of NAVER Connect (2021.07 ~ 2022.02)
-
-* Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
-
-<!--* Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
-
-* Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)-->
-
+* Mentor of 🤖[Play with SW](https://www.playsw.or.kr/main)🤖 1st, SW education program of NAVER Connect (2021.07 ~ 2022.02)
+* Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 24th, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
 * 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
-
-* Member of ☁️[Cloud Club](https://cloudclub.notion.site/cloudclub/Cloud-Club-1-39782e4d00f24b07aea8484e5a86110e)☁️, cloud infrastructure club (2022.03 ~ Current)
+* Member of ☁️[Cloud Club](https://cloudclub.notion.site/cloudclub/Cloud-Club-1-39782e4d00f24b07aea8484e5a86110e)☁️ 1st, cloud infrastructure club (2022.03 ~ Current)
+* Member of ✨[SOLUX](https://www.instagram.com/only_solux/)✨ 27th, programming club of SMWU (2022.03 ~ Current)
+<!--* Team leader of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team, Leadership group of SMWU Library (2021.01 ~ 2021.12)
+* Member of 📚[SMARTeer](https://cafe.naver.com/smarteer)📚 Education team & Global team, Leadership group of SMWU Library (2020.04 ~ 2021.12)-->
 
 
 <div align="center">
