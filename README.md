@@ -29,6 +29,7 @@ Business Administration 💼
 * Executive team & Educator of 🦁[Like Lion at SMWU](https://www.likelion.net/univ)🦁 9th, web programming club (2021.01 ~ 2021.12)
 * Mentor of 🤖[Play with SW](https://www.playsw.or.kr/main)🤖 1st, SW education program of NAVER Connect (2021.07 ~ 2022.02)
 * Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 24th, Korean University Students IT, Management Society (2021.08 ~ 2021.11)
+* Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ )
 * 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
 <!-- * Member of ☁️[Cloud Club](https://cloudclub.notion.site/cloudclub/Cloud-Club-1-39782e4d00f24b07aea8484e5a86110e)☁️ 1st, cloud infrastructure club (2022.03 ~ Current)-->
 * Member of ☁️[Cloud Club](https://cloudclub.oopy.io/)☁️ 1st, cloud infrastructure club (2022.03 ~ 2022.07)
@@ -80,6 +81,7 @@ Business Administration 💼
 </p>
    <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIn37&layout=compact)](https://github.com/JeongIn37/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongIn37)](https://github.com/anuraghazra/github-readme-stats)
 </div>
