@@ -23,11 +23,11 @@ Business Administration 💼
 * 2021 Winter KAIST ⭐️[Mad Camp](https://madcamp.io/)⭐️ (2021.12 ~ 2022.01)
 * Member of ☁️[Cloud Club](https://cloudclub.oopy.io/)☁️ 1st, cloud infrastructure club (2022.03 ~ 2022.07)
 * Member of ✨[SOLUX](https://github.com/sm-solux)✨ 27th, programming club of SMWU (2022.03 ~ Current)
-<! --* Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ ) -->
+
 
 
 <!--
-
+Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ )
 | Activity | Position | Duration | Description |
 |---|---|---|---|
 | [Like Lion](https://www.likelion.net/univ) at SMWU 8th | Member | 2020.03-2020.12 | Web Programming Club |
