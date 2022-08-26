@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jeongin%20Yoon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=100&section=header&text=Sever%20Developer,%20Jeong%20In&fontSize=40&animation=fadeIn)
 
 <div align="center">
 
