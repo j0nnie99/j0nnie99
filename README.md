@@ -86,6 +86,7 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 </p>
    <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongIn37&layout=compact)](https://github.com/JeongIn37/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeongIn37)](https://github.com/anuraghazra/github-readme-stats)
 </div>
