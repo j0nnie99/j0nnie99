@@ -24,7 +24,7 @@ Business Administration 💼
 * Member of ☁️[Cloud Club](https://cloudclub.oopy.io/)☁️ 1st, cloud infrastructure club (2022.03 ~ 2022.07)
 * Member of ✨[SOLUX](https://github.com/sm-solux)✨ 27th, programming club of SMWU (2022.03 ~ 2022.08)
 * Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ 2022.11)
-* Member of 🚀[UMC at SMWU](https://www.makeus.in/umc)🚀 3rd, IT club for lanuching application (2022.09 ~ Current)
+* Member of 🚀[UMC at SMWU](https://www.makeus.in/umc)🚀 3rd, IT club for lanuching application (2022.09 ~ 2023.02)
 
 
 <!--
@@ -49,7 +49,7 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 ## 🛠 Tech Stack 🛠
 <p>
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-thebadge&logo=Spring&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-thebadge&logo=Spring&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Django-092E20?style=for-thebadge&logo=Django&logoColor=white"/>
 <!--<img src="https://img.shields.io/badge/Node.js-339933?style=for-thebadge&logo=Node.js&logoColor=white"/>-->
 <!--<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white"/>-->
