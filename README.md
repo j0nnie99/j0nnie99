@@ -90,3 +90,5 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nnie99)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+https://jonnie37.notion.site/9e35ab675067498b8a0cb75d6d256842
