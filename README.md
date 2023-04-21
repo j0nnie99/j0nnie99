@@ -26,7 +26,12 @@ Business Administration 💼
 * Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ 2022.11)
 * Member of 🚀[UMC at SMWU](https://www.makeus.in/umc)🚀 3rd, IT club for lanuching application (2022.09 ~ 2023.02)
 
+<!--
+<div align="center">
 
+## 💼 Work    </div>
+* [(주)호퍼스]() MVP 개발 서포터 (2022.10 ~ 2022.12)
+* [ids&Trust](http://www.idstrust.com/about/ids) 솔루션운영팀 개발 인턴 (2023.01 ~ 2023.04) -->
 <!--
 Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Korean University Students IT, Management Society (2022.08 ~ )
 | Activity | Position | Duration | Description |
@@ -90,5 +95,3 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nnie99)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-https://jonnie37.notion.site/9e35ab675067498b8a0cb75d6d256842
