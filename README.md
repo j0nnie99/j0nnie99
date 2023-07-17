@@ -91,7 +91,9 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 </p>
    <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0nnie99&layout=compact)](https://github.com/j0nnie99/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nnie99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j0nnie99&layout=compact&theme=github_dark)](https://github.com/j0nnie99/github-readme-stats)
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nnie99&theme=github_dark&count_private=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 </div>
