@@ -96,4 +96,7 @@ Development team of 🔗[KUSITMS](https://cafe.naver.com/kusitms)🔗 26th, Kore
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j0nnie99&theme=github_dark&count_private=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=j_nini)](https://solved.ac/j_nini/)
+-->
 </div>
